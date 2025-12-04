@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&width=435&lines=Hello!!+I'm+Naoki.+Front+end+Deveropper.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&width=435&lines=Hello!!+I'm+Naoki.+Front+end+deveropper.)](https://git.io/typing-svg)
 
 ## 🛠 Tech Stack
 
