@@ -1,8 +1,4 @@
-[![Top Langs](https://github-readme-stats-green-nine-84.vercel.app/api/top-langs/?username=nackyAir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats-green-nine-84.vercel.app/api?username=nackyAir)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&width=435&lines=Software+Developer+from+Japan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&width=435&lines=Hello!!+I'm+Naoki.+Front+end+Deveropper.)](https://git.io/typing-svg)
 
 ## 🛠 Tech Stack
 
